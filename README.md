@@ -1,20 +1,8 @@
-# C21-Capstone-Project-Dataset-Gp1
+# C21-Capstone-Project-Data-Warehouse-Dataset-Gp1
 The dataset of capstone proj. gp1
 
+NutriPOD is a powerful diets tracking app, with an enormous food database, food insights, calorie counter, and so much more.
 
-('穀類'); --id : 1  穀類及其製品
-('豆類'); --id : 2  豆類及其製品
-('蔬菜類'); --id : 3  蔬菜類及其製品
-('水果類'); --id : 4  水果類及其製品
-('堅果與種子'); --id : 5  堅果與種子及其製品
-('畜肉類'); --id : 6  畜肉類及其製品
-('禽肉類'); --id : 7  禽肉類及其製品
-('蛋類'); --id : 8  蛋類及其製品
-('奶類及其製品'); --id : 9  奶類及其製品
-('冰凍甜點'); --id : 10  冰凍甜點
-('魚類'); --id : 11  魚類及其製品
-('不含酒精飲料'); --id : 12  不含酒精飲料
-('糖及糖類製品'); --id : 13 糖及糖類製品
-('湯類'); --id : 14 湯類
-('小食'); --id : 15 小食
-('即食食物'); --id : 16 即食食物
+During this project, multiple programming languages are used to build the application and entire ETL pipeline from scraping raw nutrition data from HK Government Center for food safety to displaying the summary and statistics in a readable way for the admin and users on a website.
+
+Technical Stack: Python, PySpark, Amazon RDS, Docker, PostgreSQL, Google Data Studio
