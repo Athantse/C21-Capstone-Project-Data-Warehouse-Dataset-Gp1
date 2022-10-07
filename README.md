@@ -1,5 +1,5 @@
 # C21-Capstone-Project-Data-Warehouse-Dataset-Gp1
-The dataset of capstone proj. gp1
+The data warehouse and dataset of capstone proj. gp1
 
 NutriPOD is a powerful diets tracking app, with an enormous food database, food insights, calorie counter, and so much more.
 
